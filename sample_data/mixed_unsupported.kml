@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+        <Placemark><name>Mixed</name>
+          <MultiGeometry>
+            <Point><coordinates>78.04,15.83,0</coordinates></Point>
+            <LineString><coordinates>78.04,15.83,0 78.05,15.83,0</coordinates></LineString>
+          </MultiGeometry>
+        </Placemark>
+        <Placemark><name>Plot A</name>
+          <Polygon><outerBoundaryIs><LinearRing><coordinates>78.04,15.83,0 78.05,15.83,0 78.05,15.84,0 78.04,15.84,0 78.04,15.83,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+        </Placemark>
+        </Document></kml>

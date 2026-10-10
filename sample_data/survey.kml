@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+        <Placemark><name>Plot A</name><description>Farm plot</description>
+          <Polygon><outerBoundaryIs><LinearRing><coordinates>78.04,15.83,0 78.05,15.83,0 78.05,15.84,0 78.04,15.84,0 78.04,15.83,0</coordinates></LinearRing></outerBoundaryIs></Polygon>
+        </Placemark>
+        <Placemark><name>Road 1</name>
+          <LineString><coordinates>78.04,15.83,0 78.05,15.83,0</coordinates></LineString>
+        </Placemark>
+        <Placemark><name>Well</name>
+          <Point><coordinates>78.045,15.835,0</coordinates></Point>
+        </Placemark>
+        </Document></kml>
